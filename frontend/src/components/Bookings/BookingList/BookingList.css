@@ -1,0 +1,13 @@
+.bookings_list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bookings_item{
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border: solid 1px  #5101d1;
+    display: flex;
+    justify-content: space-between;
+}
